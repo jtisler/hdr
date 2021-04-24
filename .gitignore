@@ -5,6 +5,7 @@
 .DS_Store
 .AppleDouble
 .LSOverride
+.idea
 
 # Icon must end with two \r
 Icon
@@ -166,7 +167,3 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-
-# End of https://www.gitignore.io/api/node,sublimetext,windows,macos,sass
-
-dist/
